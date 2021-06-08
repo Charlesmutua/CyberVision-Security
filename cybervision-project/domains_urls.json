@@ -1,0 +1,142 @@
+[
+  {
+    "domain": "wpad.frc.com",
+    "time": "2020-11-19 13:44:33",
+    "IP": "172.22.71.136"
+  },
+  {
+    "domain": "debug.opendns.com",
+    "time": "2020-11-19 13:44:19",
+    "IP": "172.22.144.38"
+  },
+  {
+    "domain": "play.google.com",
+    "time": "2020-11-19 13:44:19",
+    "IP": "172.22.144.38"
+  },
+  {
+    "domain": "debug.opendns.com",
+    "time": "2020-11-19 13:44:19",
+    "IP": "172.22.144.38"
+  },
+  {
+    "domain": "debug.opendns.com",
+    "time": "2020-11-19 13:44:19",
+    "IP": "172.22.144.38"
+  },
+  {
+    "domain": "guc3-accesspoint-b-df76.ap.spotify.com",
+    "time": "2020-11-19 13:44:19",
+    "IP": "172.22.144.38"
+  },
+  {
+    "domain": "apresolve.spotify.com",
+    "time": "2020-11-19 13:44:19",
+    "IP": "172.22.144.38"
+  },
+  {
+    "domain": "debug.opendns.com",
+    "time": "2020-11-19 13:44:19",
+    "IP": "172.22.144.38"
+  },
+  {
+    "domain": "rtp5-cpln-bkup-s04.cisco.com",
+    "time": "2020-11-19 13:44:19",
+    "IP": "172.22.144.38"
+  },
+  {
+    "domain": "rtp5-cpln-bkup-s04.cisco.com",
+    "time": "2020-11-19 13:44:19",
+    "IP": "172.22.144.38"
+  },
+  {
+    "domain": "rtp5-cpln-bkup-s07.cisco.com",
+    "time": "2020-11-19 13:44:19",
+    "IP": "172.22.144.38"
+  },
+  {
+    "domain": "rtp5-cpln-bkup-s07.cisco.com",
+    "time": "2020-11-19 13:44:19",
+    "IP": "172.22.144.38"
+  },
+  {
+    "domain": "ocsp.apple.com",
+    "time": "2020-11-19 13:44:19",
+    "IP": "172.22.144.38"
+  },
+  {
+    "domain": "cloud-ec-asn.amp.cisco.com",
+    "time": "2020-11-19 13:44:19",
+    "IP": "172.22.144.38"
+  },
+  {
+    "domain": "wpad.frc.com",
+    "time": "2020-11-19 13:44:33",
+    "IP": "172.22.71.136"
+  },
+  {
+    "domain": "debug.opendns.com",
+    "time": "2020-11-19 13:44:19",
+    "IP": "172.22.144.38"
+  },
+  {
+    "domain": "play.google.com",
+    "time": "2020-11-19 13:44:19",
+    "IP": "172.22.144.38"
+  },
+  {
+    "domain": "debug.opendns.com",
+    "time": "2020-11-19 13:44:19",
+    "IP": "172.22.144.38"
+  },
+  {
+    "domain": "debug.opendns.com",
+    "time": "2020-11-19 13:44:19",
+    "IP": "172.22.144.38"
+  },
+  {
+    "domain": "guc3-accesspoint-b-df76.ap.spotify.com",
+    "time": "2020-11-19 13:44:19",
+    "IP": "172.22.144.38"
+  },
+  {
+    "domain": "apresolve.spotify.com",
+    "time": "2020-11-19 13:44:19",
+    "IP": "172.22.144.38"
+  },
+  {
+    "domain": "debug.opendns.com",
+    "time": "2020-11-19 13:44:19",
+    "IP": "172.22.144.38"
+  },
+  {
+    "domain": "rtp5-cpln-bkup-s04.cisco.com",
+    "time": "2020-11-19 13:44:19",
+    "IP": "172.22.144.38"
+  },
+  {
+    "domain": "rtp5-cpln-bkup-s04.cisco.com",
+    "time": "2020-11-19 13:44:19",
+    "IP": "172.22.144.38"
+  },
+  {
+    "domain": "rtp5-cpln-bkup-s07.cisco.com",
+    "time": "2020-11-19 13:44:19",
+    "IP": "172.22.144.38"
+  },
+  {
+    "domain": "rtp5-cpln-bkup-s07.cisco.com",
+    "time": "2020-11-19 13:44:19",
+    "IP": "172.22.144.38"
+  },
+  {
+    "domain": "ocsp.apple.com",
+    "time": "2020-11-19 13:44:19",
+    "IP": "172.22.144.38"
+  },
+  {
+    "domain": "cloud-ec-asn.amp.cisco.com",
+    "time": "2020-11-19 13:44:19",
+    "IP": "172.22.144.38"
+  }
+]
